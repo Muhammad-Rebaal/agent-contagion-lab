@@ -1,8 +1,6 @@
 # Agent Contagion Lab: Measuring Prompt-Injection Contagion Across Multi-Agent Topologies
 
-[![LessWrong Post](https://img.shields.io/badge/LessWrong-Read%20Article-2e8555?style=flat-square)](https://www.lesswrong.com)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 An empirical research laboratory testing whether downstream summarization sanitizes indirect prompt injections across four multi-agent communication topologies (**Chain**, **Star**, **Ring**, and **Tree**).
 
